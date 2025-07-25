@@ -1,4 +1,10 @@
-# Human-Readable VPC Flow Log Parser
+# VPC flow log parser
+
+## Overview
+- Download VPC flow logs to local
+- Filter important data of VPC flow log
+- Convert VPC flow logs to CSV file
+
 ## Problem
 
 - The log file contains only two fields: `timestamp` and `message`, which makes analysis difficult.

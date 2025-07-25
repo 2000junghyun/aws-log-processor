@@ -1,4 +1,9 @@
-# S3 Access Log Merger & CSV Converter
+# S3 access log parser
+
+## Overview
+- Download S3 access logs to local
+- Filter important data of S3 access logs
+- Convert S3 access logs to CSV file
 
 ## Problem
 
